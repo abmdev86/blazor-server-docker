@@ -32,4 +32,4 @@ ENTRYPOINT ["dotnet", "YourAppName.dll"]
 
 ```
 
-You will need to create .dockerignore file as well as the .gitignore file. 
+
