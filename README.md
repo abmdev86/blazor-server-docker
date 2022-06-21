@@ -4,8 +4,7 @@ This is a good source for building a docker image with VScode and Blazor server!
 check the original branch ('original-branch') . to see the initial setup.
 
 ---
-This is a different approach from using Visual Studio to set up the Docker process
-The VS process adds another layer to the Directory and causes some confusion when creating the Dockerfile.
+This is how you would set up Docker and Blazor app with VScode
 ---
 
 ##  Dockerfile setup
